@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Vince\Desktop\Testing Range\HuffmanTreeType1(practice4)\HuffTree.cpp(137): warning C4715: 'giaiMa': not all control paths return a value
+  All 509 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HuffmanTreeType1(practice4).vcxproj -> C:\Users\Vince\Desktop\Testing Range\Release\HuffmanTreeType1(practice4).exe
